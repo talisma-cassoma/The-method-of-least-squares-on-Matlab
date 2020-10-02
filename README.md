@@ -1,10 +1,10 @@
 #  méthode de moindre carré sur Matlab
 
-si tu a un ensemble de donnees 
-le savais tu qui en math est possible trouver une fonction 
-qui produis ses memes ensemble de donnes peut importe comme ils sont rangé 
+if you have a set of data
+Did you know that in math it is possible to find a function
+which produces its same set of data regardless of how they are arranged
 
-donc on l'utilisant on peut predire quel sont le valeurs suites ou tout autre valeurs
-dun ensemble de donnees
+so using it we can predict what are the sequence values or any other values
+of a data set
 
 
