@@ -1,4 +1,4 @@
-#  méthode de moindre carré sur Matlab
+#  The method of least squares on Matlab
 
 if you have a set of data
 
