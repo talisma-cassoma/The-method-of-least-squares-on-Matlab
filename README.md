@@ -10,5 +10,6 @@ of a data set
 
 this code is the application of that math methode, you can try it for and see it 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62837677/95142358-cbfe3480-0773-11eb-99e2-74981b243662.gif)
 
 
