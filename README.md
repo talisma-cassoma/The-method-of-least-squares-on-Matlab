@@ -11,7 +11,7 @@ which produces its same set of data regardless of how they are arranged?
 So yes! using The method of least squares we can do it, we can predict what are the next sequence values or any other values
 of a data set
 
-This code is the application of that math methode, you can try it for and see it 
+*This code is the application of that math method* 
 
 # Projet issues 
 
@@ -38,7 +38,7 @@ squares.
 The method consists of a prescription (empirical method), which is that the function fα (x) which
 best describes the data is that which minimizes the quadratic sum of the deviations of the
 measures to the predictions of y (x).
-I presume that you also snow how The method of least squares works,if not search on wikipedia for this details cause this part is just the application of it   
+I presume that you also snow how The method of least squares works, if not search on wikipedia for this details cause this part is just the application of it   
 
 
 
