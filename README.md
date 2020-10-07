@@ -42,14 +42,20 @@ measures to the predictions of y (x).
 
 let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) } 
 we search :
+
 fα (x )= α0 + α1x + α2x² + …… αNxN
-with : α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN } 
+
+with : 
+
+α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN } 
 
 
 <img src="https://user-images.githubusercontent.com/62837677/95394727-5f16a600-08fd-11eb-984a-bf8701e185b4.png" width="45%"></img>
-  N=6
+
 <img src="https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png" width="45%"></img> 
-  N=9
+
+N=6                           N=9
+
 We can clearly see that our function fα (x) for ***N = 6*** does not approach very well the y (x) of me for
 the polynomials of N = 7 and 8. The best approximation is that of the polynomial of degree ***N = 9***, by
 tests I found that degrees greater than 9 were also shown to be bad approximations.
