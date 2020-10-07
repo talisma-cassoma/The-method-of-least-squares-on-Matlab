@@ -38,6 +38,8 @@ squares.
 The method consists of a prescription (empirical method), which is that the function fα (x) which
 best describes the data is that which minimizes the quadratic sum of the deviations of the
 measures to the predictions of y (x).
+I presume that you also snow how The method of least squares works,if not search on wikipedia for this details cause this part is just the application of it   
+
 
 
 let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) } 
@@ -57,7 +59,7 @@ with :
 
 # Note Analysis: 
 
-We can clearly see that our function fα (x) for ***N = 6*** does not approach very well the y (x) of me for
+We can clearly see that our function fα (x) for ***N = 6*** does not approach very well y (x) for
 the polynomials of N = 7 and 8. The best approximation is that of the polynomial of degree ***N = 9***, by
 tests I found that degrees greater than 9 were also shown to be bad approximations.
 
