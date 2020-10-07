@@ -26,7 +26,7 @@ confusion like this for now and work a simple example.
 Everyone already knows that there is a positive relationship between time spent reviewing and grade.
 that we get, but we're going to need some data to demonstrate it correctly.
 
-![Slide1](https://user-images.githubusercontent.com/62837677/95394119-1ca09980-08fc-11eb-9e53-3003a93ff57c.jpg)
+![Slide1](https://user-images.githubusercontent.com/62837677/95394119-1ca09980-08fc-11eb-9e53-3003a93ff57c.jpg| width=100)
 ![graph](https://user-images.githubusercontent.com/62837677/95394483-e9aad580-08fc-11eb-8744-56372e34c74a.png)
 ![n=6](https://user-images.githubusercontent.com/62837677/95394727-5f16a600-08fd-11eb-984a-bf8701e185b4.png)
    ![n=9](https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png)
