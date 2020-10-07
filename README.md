@@ -44,30 +44,14 @@ let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) }
 we search :
 fα (x )= α0 + α1x + α2x² + …… αNxN
 with : α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN } 
-a set of parameters to adjust
-yi = fα (xi ) ∀ xi
-such as :
-yi- fα (xi ) = εi
-ξ ₌ ∑ εi² = ∑ [ yi- fα (xi ) ]² quadratic deviation
-ξ = ∑ [ yi – (α0 + α1x + α2x² + …… αNxN)) ]²
-ξ = ∑ [ yi – ∑αkxkk ]²
-with :
-𝛿𝜉
-𝛿𝑖 = ∑ xi
-j yi – ∑αk∑xi
-k+j =0 ∑ xi
-j yi =∑αk∑xi
-k+j aij=∑xl
-i+j-2
-s = ∑ xl
-j+1 yl
 
-in matrix form:
-[ A ][ α ] = [ S ]
 
 <img src="https://user-images.githubusercontent.com/62837677/95394727-5f16a600-08fd-11eb-984a-bf8701e185b4.png" width="45%"></img>
-
+  N=6
 <img src="https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png" width="45%"></img> 
-
+  N=9
+We can clearly see that our function fα (x) for ***N = 6*** does not approach very well the y (x) of me for
+the polynomials of N = 7 and 8. The best approximation is that of the polynomial of degree ***N = 9***, by
+tests I found that degrees greater than 9 were also shown to be bad approximations.
 
 
