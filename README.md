@@ -53,9 +53,9 @@ with :
 
 
 <img src="https://user-images.githubusercontent.com/62837677/95394727-5f16a600-08fd-11eb-984a-bf8701e185b4.png" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png" width="38%"></img> 
                              
-                             N=6                                                          N=9
+Remark the first graph has N=6 and the last one has N=9
 
 # Note Analysis: 
 
