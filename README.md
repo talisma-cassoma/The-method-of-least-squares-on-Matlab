@@ -28,7 +28,7 @@ Everyone already knows that there is a positive relationship between time spent 
 that we get, but we're going to need some data to demonstrate it correctly.
 
 <img src="images/hours_score.jpg">
-<p align="left">The method of least squares makes it possible to select among these functions the one which reproduces the better experimental data. We speak in this case of adjustment by the least method squares.The method consists of a prescription (empirical method), which is that the function fα (x) which best describes the data is that which minimizes the quadratic sum of the deviations of the measures to the predictions of y (x). I presume that you also snow how The method of least squares works, if not search on wikipedia for this details cause this part is just the application of it</p><img src="images/graph1.png" align="right" width="45%"></img>
+<p align="left"><img src="images/graph1.png" align="right" width="45%"></img>The method of least squares makes it possible to select among these functions the one which reproduces the better experimental data. We speak in this case of adjustment by the least method squares.The method consists of a prescription (empirical method), which is that the function fα (x) which best describes the data is that which minimizes the quadratic sum of the deviations of the measures to the predictions of y (x). I presume that you also snow how The method of least squares works, if not search on wikipedia for this details cause this part is just the application of it</p>
 
 let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) } 
 we search :
