@@ -1,8 +1,9 @@
 #  The method of least squares on Matlab
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62837677/95142358-cbfe3480-0773-11eb-99e2-74981b243662.gif)
+<img src="https://kit8.net/images/thumbnails/580/386/detailed/4/data_analysis@2x.png">
 
 # What for?
+
 If you have a set of data
 
 Did you know that in math it is possible to find a function
@@ -15,7 +16,7 @@ of a data set
 
 # Projet issues 
 
-***General Introduction***
+<h3>General Introduction</h3>
 
 Being able to draw conclusions about data trends is one of the most important steps in business and science.
 Often, the questions we ask ourselves force us to make predictions.This projet describes a
@@ -29,8 +30,6 @@ that we get, but we're going to need some data to demonstrate it correctly.
 <img src="images/hours_score.jpg">
 
 <img src="images/graph1.png" width="45%"></img> 
-
-                       graph
                        
 The method of least squares makes it possible to select among these functions the one which reproduces the
 better experimental data. We speak in this case of adjustment by the least method
