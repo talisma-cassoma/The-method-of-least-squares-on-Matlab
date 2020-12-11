@@ -26,9 +26,9 @@ confusion like this for now and work a simple example.
 Everyone already knows that there is a positive relationship between time spent reviewing and grade.
 that we get, but we're going to need some data to demonstrate it correctly.
 
-![Slide1](https://user-images.githubusercontent.com/62837677/95394119-1ca09980-08fc-11eb-9e53-3003a93ff57c.jpg)
+<img src="images/hours_score.jpg">
 
-<img src="https://user-images.githubusercontent.com/62837677/95394483-e9aad580-08fc-11eb-8744-56372e34c74a.png" width="45%"></img> 
+<img src="images/graph1.png" width="45%"></img> 
 
                        graph
                        
@@ -52,8 +52,8 @@ with :
 α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN } 
 
 
-<img src="https://user-images.githubusercontent.com/62837677/95394727-5f16a600-08fd-11eb-984a-bf8701e185b4.png" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/62837677/95394733-62119680-08fd-11eb-860b-631fc4548988.png" width="38%"></img> 
+<img src="images/graph2.png" width="45%"></img>
+<img src="images/graph3.png" width="38%"></img> 
                              
 Remark the first graph has N=6 and the last one has N=9
 
