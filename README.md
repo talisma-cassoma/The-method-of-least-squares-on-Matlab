@@ -1,8 +1,9 @@
 #  The method of least squares on Matlab
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62837677/95142358-cbfe3480-0773-11eb-99e2-74981b243662.gif)
+<img src="https://thumbs.dreamstime.com/b/hand-analyst-pointing-computer-display-results-statistical-data-analysis-diagrams-charts-graphs-business-140378662.jpg">
 
 # What for?
+
 If you have a set of data
 
 Did you know that in math it is possible to find a function
@@ -15,7 +16,7 @@ of a data set
 
 # Projet issues 
 
-***General Introduction***
+<h3>General Introduction</h3>
 
 Being able to draw conclusions about data trends is one of the most important steps in business and science.
 Often, the questions we ask ourselves force us to make predictions.This projet describes a
@@ -26,30 +27,19 @@ confusion like this for now and work a simple example.
 Everyone already knows that there is a positive relationship between time spent reviewing and grade.
 that we get, but we're going to need some data to demonstrate it correctly.
 
-<img src="images/hours_score.jpg">
+<img align="left" src="images/hours_score.jpg"><br>
 
-<img src="images/graph1.png" width="45%"></img> 
+<img align="right" src="images/graph1.png" width="45%"></img><br>
 
-                       graph
-                       
-The method of least squares makes it possible to select among these functions the one which reproduces the
-better experimental data. We speak in this case of adjustment by the least method
-squares.
-The method consists of a prescription (empirical method), which is that the function fα (x) which
-best describes the data is that which minimizes the quadratic sum of the deviations of the
-measures to the predictions of y (x).
-I presume that you also snow how The method of least squares works, if not search on wikipedia for this details cause this part is just the application of it   
-
-
-
-let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) } 
+<p>The method of least squares makes it possible to select among these functions the one which reproduces the better experimental data. We speak in this case of adjustment by the least method squares.The method consists of a prescription (empirical method), which is that the function fα (x) which best describes the data is that which minimizes the quadratic sum of the deviations of the measures to the predictions of y (x). I presume that you also snow how The method of least squares works, if not search on wikipedia for this details cause this part is just the application of it</p><br>
+<p align="left" >let a set of measures  ῼ = { (x1, y1) , (x2, y2) .......(xn, yn) } </p>
 we search :
 
 fα (x )= α0 + α1x + α2x² + …… αNxN
 
 with : 
 
-α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN } 
+α ={ α0 , α1 , α2 , α3 , α4 , α5 , α6 …… αN }
 
 
 <img src="images/graph2.png" width="45%"></img>
