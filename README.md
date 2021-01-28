@@ -14,7 +14,7 @@ which produces its same set of data regardless of how they are arranged?
 So yes! using The method of least squares we can do it, we can predict what are the next sequence values or any other values
 of a data set
 
-*This code is the application of that math method used in machine learning* 
+**This code is the application of that math method used in machine learning** 
 
 # Projet issues 
 
