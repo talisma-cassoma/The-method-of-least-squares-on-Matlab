@@ -1,6 +1,6 @@
 #  The method of least squares on Matlab
 
-## see the code in c <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
+## see the code in C language <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
 
 <img src="https://thumbs.dreamstime.com/b/hand-analyst-pointing-computer-display-results-statistical-data-analysis-diagrams-charts-graphs-business-140378662.jpg">
 
