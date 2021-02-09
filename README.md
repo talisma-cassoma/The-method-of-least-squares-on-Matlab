@@ -55,4 +55,6 @@ We can clearly see that our function fα (x) for ***N = 6*** does not approach v
 the polynomials of N = 7 and 8. The best approximation is that of the polynomial of degree ***N = 9***, by
 tests I found that degrees greater than 9 were also shown to be bad approximations.
 
+# Explaining the algorithm
+
 
