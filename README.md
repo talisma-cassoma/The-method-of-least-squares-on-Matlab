@@ -2,7 +2,7 @@
 
 ## see the code in C language <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
 
-<img src="https://thumbs.dreamstime.com/b/hand-analyst-pointing-computer-display-results-statistical-data-analysis-diagrams-charts-graphs-business-140378662.jpg">
+<img src="https://cdn.dribbble.com/users/272144/screenshots/4960141/chart-ui.gif" alt="linear regression image" width=100%>
 
 # What for?
 
