@@ -11,10 +11,10 @@ If you have a set of data
 Did you know that in math it is possible to find a function
 which produces its same set of data regardless of how they are arranged?
 
-So yes! using The method of least squares we can do it, we can predict what are the next sequence values or any other values
+So yes! using The method of least squares we can do it, we can predict (with a margin of error, of course)what are the next sequence values or any other values
 of a data set
 
-**This code is the application of that math method used in machine learning** 
+**This code is the application of that math method used in machine learning for solving linear regression problem** 
 
 # Projet issues 
 
