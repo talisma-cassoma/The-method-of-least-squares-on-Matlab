@@ -1,9 +1,9 @@
 #  The method of least squares on Matlab
 
 ## see the code in C language <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
-
-<img src="https://cdn.dribbble.com/users/272144/screenshots/4960141/chart-ui.gif" alt="linear regression image" width=100%>
-
+<p align="center">
+<img src="https://cdn.dribbble.com/users/272144/screenshots/4960141/chart-ui.gif" alt="linear regression image" width=90% >
+</p>
 # What for?
 
 If you have a set of data
