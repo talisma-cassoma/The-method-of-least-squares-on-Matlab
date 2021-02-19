@@ -1,4 +1,4 @@
-#  The method of least squares on Matlab
+#  REGRESSION OR method of least squares on Matlab
 
 ## see the code in C language <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
 <p align="center">
