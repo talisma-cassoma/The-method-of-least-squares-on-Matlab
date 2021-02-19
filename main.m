@@ -11,8 +11,8 @@ plot(x,y,'*b');
 %normalization de la fontion
 M = max(y);
 y=y/M;
-%d'apres la figure 1 on touvre 6 extremes alors notre degré du polynome N est superiuer ou égal a 6 
-N=6;
+%d'apres la figure 1 on touvre x=7 comme extremes de y alors notre degré du polynome N est superiuer ou égal a 7 
+N=7;
 % calcul de la matrice A pour (i,j)------------------
 for i=1:N+1;
     for j=1:N+1;
