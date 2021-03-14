@@ -1,4 +1,4 @@
-#  REGRESSION OR method of least squares on Matlab
+#  POLYNOMIAL REGRESSION by method of least squares on Matlab
 
 ## see the code in C language <a href="https://github.com/talisma-cassoma/Regression-et-classification-lineaire/blob/main/main.c">here</a>
 <p align="center">
@@ -56,5 +56,8 @@ the polynomials of N = 7 and 8. The best approximation is that of the polynomial
 tests I found that degrees greater than 9 were also shown to be bad approximations.
 
 # Explaining the algorithm
+
+this algorithm is also valid for linear regression seen that it too is a polynomial regression but of degree 1.
+
 
 
