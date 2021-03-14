@@ -57,7 +57,7 @@ tests I found that degrees greater than 9 were also shown to be bad approximatio
 
 # Explaining the algorithm
 
-this algorithm is also valid for linear regression seen that it too is a polynomial regression but of degree 1.
+this algorithm is also valid for linear regression seen that it too is a polynomial regression of degree 1.
 
 
 
